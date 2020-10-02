@@ -436,7 +436,7 @@ class MainScreen extends Component {
                 <View style={{height: 40}}>
                     <Slider 
                         style={{height: 40}}
-                        minimumValue={0}
+                        minimumValue={-25}
                         maximumValue={25}
                         minimumTrackTintColor="#707070"
                         maximumTrackTintColor="#707070"
@@ -467,7 +467,7 @@ class MainScreen extends Component {
                 <View style={{height: 40}}>
                     <Slider 
                         style={{height: 40}}
-                        minimumValue={0}
+                        minimumValue={-25}
                         maximumValue={25}
                         minimumTrackTintColor="#707070"
                         maximumTrackTintColor="#707070"
