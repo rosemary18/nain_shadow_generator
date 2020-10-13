@@ -65,5 +65,17 @@ export default StyleSheet.create({
             backgroundColor: '#FFF', 
             borderRadius: 10, 
             padding: 8
+        },
+        triangle: {
+            width: 0,
+            height: 0,
+            backgroundColor: 'transparent',
+            borderStyle: 'solid',
+            borderLeftWidth: 50,
+            borderRightWidth: 50,
+            borderBottomWidth: 100,
+            borderLeftColor: 'transparent',
+            borderRightColor: 'transparent',
+            borderBottomColor: '#FFFFFF'
         }
     })

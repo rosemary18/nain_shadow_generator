@@ -20,6 +20,7 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+.package-lock.json
 
 # Android/IntelliJ
 #
